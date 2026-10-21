@@ -116,7 +116,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Somya**
+**Somya Gupta**
 
 BCA (Data Science) Student
 
